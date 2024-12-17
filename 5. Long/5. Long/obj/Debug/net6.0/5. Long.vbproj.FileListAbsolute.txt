@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\bin\Debug\net6.0\5. Long.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\bin\Debug\net6.0\5. Long.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\bin\Debug\net6.0\5. Long.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\bin\Debug\net6.0\5. Long.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\bin\Debug\net6.0\5. Long.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\obj\Debug\net6.0\5. Long.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\obj\Debug\net6.0\5. Long.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\obj\Debug\net6.0\5. Long.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\obj\Debug\net6.0\5. Long.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\obj\Debug\net6.0\5. Long.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\obj\Debug\net6.0\5. Long.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\obj\Debug\net6.0\refint\5. Long.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\obj\Debug\net6.0\5. Long.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\obj\Debug\net6.0\5. Long.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\5. Long\5. Long\obj\Debug\net6.0\ref\5. Long.dll

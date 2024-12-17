@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\bin\Debug\net6.0\4. Integer.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\bin\Debug\net6.0\4. Integer.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\bin\Debug\net6.0\4. Integer.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\bin\Debug\net6.0\4. Integer.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\bin\Debug\net6.0\4. Integer.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\obj\Debug\net6.0\4. Integer.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\obj\Debug\net6.0\4. Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\obj\Debug\net6.0\4. Integer.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\obj\Debug\net6.0\4. Integer.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\obj\Debug\net6.0\4. Integer.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\obj\Debug\net6.0\4. Integer.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\obj\Debug\net6.0\refint\4. Integer.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\obj\Debug\net6.0\4. Integer.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\obj\Debug\net6.0\4. Integer.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\4. Integer\4. Integer\obj\Debug\net6.0\ref\4. Integer.dll

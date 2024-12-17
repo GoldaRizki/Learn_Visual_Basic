@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\bin\Debug\net6.0\7. Double.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\bin\Debug\net6.0\7. Double.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\bin\Debug\net6.0\7. Double.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\bin\Debug\net6.0\7. Double.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\bin\Debug\net6.0\7. Double.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\obj\Debug\net6.0\7. Double.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\obj\Debug\net6.0\7. Double.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\obj\Debug\net6.0\7. Double.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\obj\Debug\net6.0\7. Double.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\obj\Debug\net6.0\7. Double.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\obj\Debug\net6.0\7. Double.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\obj\Debug\net6.0\refint\7. Double.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\obj\Debug\net6.0\7. Double.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\obj\Debug\net6.0\7. Double.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\7. Double\7. Double\obj\Debug\net6.0\ref\7. Double.dll
