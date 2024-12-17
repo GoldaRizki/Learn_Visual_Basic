@@ -1,0 +1,17 @@
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\bin\Release\net6.0-windows\HaloDuniaApp.exe
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\bin\Release\net6.0-windows\HaloDuniaApp.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\bin\Release\net6.0-windows\HaloDuniaApp.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\bin\Release\net6.0-windows\HaloDuniaApp.dll
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\bin\Release\net6.0-windows\HaloDuniaApp.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\obj\Release\net6.0-windows\HaloDuniaApp.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\obj\Release\net6.0-windows\HaloDuniaApp.Form1.resources
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\obj\Release\net6.0-windows\HaloDuniaApp.vbproj.GenerateResource.cache
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\obj\Release\net6.0-windows\HaloDuniaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\obj\Release\net6.0-windows\HaloDuniaApp.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\obj\Release\net6.0-windows\HaloDuniaApp.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\obj\Release\net6.0-windows\HaloDuniaApp.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\obj\Release\net6.0-windows\HaloDuniaApp.dll
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\obj\Release\net6.0-windows\refint\HaloDuniaApp.dll
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\obj\Release\net6.0-windows\HaloDuniaApp.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\obj\Release\net6.0-windows\HaloDuniaApp.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDuniaApp\HaloDuniaApp\obj\Release\net6.0-windows\ref\HaloDuniaApp.dll

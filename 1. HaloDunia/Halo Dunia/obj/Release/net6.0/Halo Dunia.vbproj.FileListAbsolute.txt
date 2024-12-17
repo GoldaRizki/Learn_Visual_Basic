@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\bin\Release\net6.0\Halo Dunia.exe
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\bin\Release\net6.0\Halo Dunia.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\bin\Release\net6.0\Halo Dunia.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\bin\Release\net6.0\Halo Dunia.dll
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\bin\Release\net6.0\Halo Dunia.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\obj\Release\net6.0\Halo Dunia.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\obj\Release\net6.0\Halo Dunia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\obj\Release\net6.0\Halo Dunia.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\obj\Release\net6.0\Halo Dunia.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\obj\Release\net6.0\Halo Dunia.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\obj\Release\net6.0\Halo Dunia.dll
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\obj\Release\net6.0\refint\Halo Dunia.dll
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\obj\Release\net6.0\Halo Dunia.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\obj\Release\net6.0\Halo Dunia.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\HaloDunia\Halo Dunia\obj\Release\net6.0\ref\Halo Dunia.dll
