@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\bin\Debug\net6.0\13. String ke Angka.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\bin\Debug\net6.0\13. String ke Angka.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\bin\Debug\net6.0\13. String ke Angka.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\bin\Debug\net6.0\13. String ke Angka.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\bin\Debug\net6.0\13. String ke Angka.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\obj\Debug\net6.0\13. String ke Angka.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\obj\Debug\net6.0\13. String ke Angka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\obj\Debug\net6.0\13. String ke Angka.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\obj\Debug\net6.0\13. String ke Angka.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\obj\Debug\net6.0\13. String ke Angka.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\obj\Debug\net6.0\13. String ke Angka.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\obj\Debug\net6.0\refint\13. String ke Angka.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\obj\Debug\net6.0\13. String ke Angka.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\obj\Debug\net6.0\13. String ke Angka.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\13. String ke Angka\obj\Debug\net6.0\ref\13. String ke Angka.dll
