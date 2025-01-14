@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\bin\Debug\net6.0\8. String.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\bin\Debug\net6.0\8. String.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\bin\Debug\net6.0\8. String.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\bin\Debug\net6.0\8. String.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\bin\Debug\net6.0\8. String.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\obj\Debug\net6.0\8. String.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\obj\Debug\net6.0\8. String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\obj\Debug\net6.0\8. String.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\obj\Debug\net6.0\8. String.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\obj\Debug\net6.0\8. String.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\obj\Debug\net6.0\8. String.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\obj\Debug\net6.0\refint\8. String.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\obj\Debug\net6.0\8. String.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\obj\Debug\net6.0\8. String.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\8. String\obj\Debug\net6.0\ref\8. String.dll

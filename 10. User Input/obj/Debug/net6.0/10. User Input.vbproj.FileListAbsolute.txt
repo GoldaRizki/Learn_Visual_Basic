@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\bin\Debug\net6.0\10. User Input.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\bin\Debug\net6.0\10. User Input.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\bin\Debug\net6.0\10. User Input.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\bin\Debug\net6.0\10. User Input.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\bin\Debug\net6.0\10. User Input.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\obj\Debug\net6.0\10. User Input.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\obj\Debug\net6.0\10. User Input.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\obj\Debug\net6.0\10. User Input.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\obj\Debug\net6.0\10. User Input.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\obj\Debug\net6.0\10. User Input.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\obj\Debug\net6.0\10. User Input.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\obj\Debug\net6.0\refint\10. User Input.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\obj\Debug\net6.0\10. User Input.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\obj\Debug\net6.0\10. User Input.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\10. User Input\obj\Debug\net6.0\ref\10. User Input.dll
