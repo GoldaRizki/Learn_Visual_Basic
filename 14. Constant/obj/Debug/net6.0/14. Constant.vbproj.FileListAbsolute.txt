@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\obj\Debug\net6.0\14. Constant.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\obj\Debug\net6.0\14. Constant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\obj\Debug\net6.0\14. Constant.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\obj\Debug\net6.0\14. Constant.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\obj\Debug\net6.0\14. Constant.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\bin\Debug\net6.0\14. Constant.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\bin\Debug\net6.0\14. Constant.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\bin\Debug\net6.0\14. Constant.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\bin\Debug\net6.0\14. Constant.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\bin\Debug\net6.0\14. Constant.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\obj\Debug\net6.0\14. Constant.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\obj\Debug\net6.0\refint\14. Constant.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\obj\Debug\net6.0\14. Constant.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\obj\Debug\net6.0\14. Constant.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\14. Constant\obj\Debug\net6.0\ref\14. Constant.dll
