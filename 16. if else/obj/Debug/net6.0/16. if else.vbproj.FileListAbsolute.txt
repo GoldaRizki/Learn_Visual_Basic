@@ -1,0 +1,15 @@
+C:\Users\Golda_Riz\Desktop\16. if else\obj\Debug\net6.0\16. if else.vbproj.AssemblyReference.cache
+C:\Users\Golda_Riz\Desktop\16. if else\obj\Debug\net6.0\16. if else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Golda_Riz\Desktop\16. if else\obj\Debug\net6.0\16. if else.AssemblyInfoInputs.cache
+C:\Users\Golda_Riz\Desktop\16. if else\obj\Debug\net6.0\16. if else.AssemblyInfo.vb
+C:\Users\Golda_Riz\Desktop\16. if else\obj\Debug\net6.0\16. if else.vbproj.CoreCompileInputs.cache
+C:\Users\Golda_Riz\Desktop\16. if else\bin\Debug\net6.0\16. if else.exe
+C:\Users\Golda_Riz\Desktop\16. if else\bin\Debug\net6.0\16. if else.deps.json
+C:\Users\Golda_Riz\Desktop\16. if else\bin\Debug\net6.0\16. if else.runtimeconfig.json
+C:\Users\Golda_Riz\Desktop\16. if else\bin\Debug\net6.0\16. if else.dll
+C:\Users\Golda_Riz\Desktop\16. if else\bin\Debug\net6.0\16. if else.pdb
+C:\Users\Golda_Riz\Desktop\16. if else\obj\Debug\net6.0\16. if else.dll
+C:\Users\Golda_Riz\Desktop\16. if else\obj\Debug\net6.0\refint\16. if else.dll
+C:\Users\Golda_Riz\Desktop\16. if else\obj\Debug\net6.0\16. if else.pdb
+C:\Users\Golda_Riz\Desktop\16. if else\obj\Debug\net6.0\16. if else.genruntimeconfig.cache
+C:\Users\Golda_Riz\Desktop\16. if else\obj\Debug\net6.0\ref\16. if else.dll
