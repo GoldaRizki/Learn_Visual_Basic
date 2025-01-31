@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\bin\Debug\net6.0\18. While Loop.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\bin\Debug\net6.0\18. While Loop.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\bin\Debug\net6.0\18. While Loop.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\bin\Debug\net6.0\18. While Loop.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\bin\Debug\net6.0\18. While Loop.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\obj\Debug\net6.0\18. While Loop.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\obj\Debug\net6.0\18. While Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\obj\Debug\net6.0\18. While Loop.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\obj\Debug\net6.0\18. While Loop.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\obj\Debug\net6.0\18. While Loop.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\obj\Debug\net6.0\18. While Loop.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\obj\Debug\net6.0\refint\18. While Loop.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\obj\Debug\net6.0\18. While Loop.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\obj\Debug\net6.0\18. While Loop.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\18. While Loop\obj\Debug\net6.0\ref\18. While Loop.dll

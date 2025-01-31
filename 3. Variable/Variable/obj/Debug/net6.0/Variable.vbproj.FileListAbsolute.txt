@@ -13,3 +13,18 @@ D:\Programming Kuliah\Documentation\Visual Basic\Variable\Variable\obj\Debug\net
 D:\Programming Kuliah\Documentation\Visual Basic\Variable\Variable\obj\Debug\net6.0\Variable.pdb
 D:\Programming Kuliah\Documentation\Visual Basic\Variable\Variable\obj\Debug\net6.0\Variable.genruntimeconfig.cache
 D:\Programming Kuliah\Documentation\Visual Basic\Variable\Variable\obj\Debug\net6.0\ref\Variable.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\bin\Debug\net6.0\Variable.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\bin\Debug\net6.0\Variable.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\bin\Debug\net6.0\Variable.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\bin\Debug\net6.0\Variable.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\bin\Debug\net6.0\Variable.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\obj\Debug\net6.0\Variable.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\obj\Debug\net6.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\obj\Debug\net6.0\Variable.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\obj\Debug\net6.0\Variable.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\obj\Debug\net6.0\Variable.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\obj\Debug\net6.0\Variable.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\obj\Debug\net6.0\refint\Variable.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\obj\Debug\net6.0\Variable.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\obj\Debug\net6.0\Variable.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\3. Variable\Variable\obj\Debug\net6.0\ref\Variable.dll

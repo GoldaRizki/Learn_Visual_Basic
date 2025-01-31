@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\obj\Debug\net6.0\22. Exit.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\obj\Debug\net6.0\22. Exit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\obj\Debug\net6.0\22. Exit.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\obj\Debug\net6.0\22. Exit.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\obj\Debug\net6.0\22. Exit.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\bin\Debug\net6.0\22. Exit.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\bin\Debug\net6.0\22. Exit.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\bin\Debug\net6.0\22. Exit.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\bin\Debug\net6.0\22. Exit.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\bin\Debug\net6.0\22. Exit.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\obj\Debug\net6.0\22. Exit.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\obj\Debug\net6.0\refint\22. Exit.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\obj\Debug\net6.0\22. Exit.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\obj\Debug\net6.0\22. Exit.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\22. Exit\obj\Debug\net6.0\ref\22. Exit.dll

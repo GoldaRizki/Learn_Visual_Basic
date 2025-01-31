@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\bin\Debug\net6.0\21. For each loop.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\bin\Debug\net6.0\21. For each loop.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\bin\Debug\net6.0\21. For each loop.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\bin\Debug\net6.0\21. For each loop.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\bin\Debug\net6.0\21. For each loop.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\obj\Debug\net6.0\21. For each loop.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\obj\Debug\net6.0\21. For each loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\obj\Debug\net6.0\21. For each loop.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\obj\Debug\net6.0\21. For each loop.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\obj\Debug\net6.0\21. For each loop.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\obj\Debug\net6.0\21. For each loop.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\obj\Debug\net6.0\refint\21. For each loop.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\obj\Debug\net6.0\21. For each loop.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\obj\Debug\net6.0\21. For each loop.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\21. For each loop\obj\Debug\net6.0\ref\21. For each loop.dll

@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\bin\Debug\net6.0\20. Do While loop.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\bin\Debug\net6.0\20. Do While loop.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\bin\Debug\net6.0\20. Do While loop.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\bin\Debug\net6.0\20. Do While loop.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\bin\Debug\net6.0\20. Do While loop.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\obj\Debug\net6.0\20. Do While loop.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\obj\Debug\net6.0\20. Do While loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\obj\Debug\net6.0\20. Do While loop.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\obj\Debug\net6.0\20. Do While loop.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\obj\Debug\net6.0\20. Do While loop.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\obj\Debug\net6.0\20. Do While loop.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\obj\Debug\net6.0\refint\20. Do While loop.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\obj\Debug\net6.0\20. Do While loop.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\obj\Debug\net6.0\20. Do While loop.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\20. Do While loop\obj\Debug\net6.0\ref\20. Do While loop.dll
