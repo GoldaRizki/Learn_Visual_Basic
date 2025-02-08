@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\bin\Debug\net6.0\23. Continue.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\bin\Debug\net6.0\23. Continue.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\bin\Debug\net6.0\23. Continue.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\bin\Debug\net6.0\23. Continue.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\bin\Debug\net6.0\23. Continue.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\obj\Debug\net6.0\23. Continue.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\obj\Debug\net6.0\23. Continue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\obj\Debug\net6.0\23. Continue.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\obj\Debug\net6.0\23. Continue.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\obj\Debug\net6.0\23. Continue.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\obj\Debug\net6.0\23. Continue.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\obj\Debug\net6.0\refint\23. Continue.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\obj\Debug\net6.0\23. Continue.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\obj\Debug\net6.0\23. Continue.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\23. Continue\obj\Debug\net6.0\ref\23. Continue.dll

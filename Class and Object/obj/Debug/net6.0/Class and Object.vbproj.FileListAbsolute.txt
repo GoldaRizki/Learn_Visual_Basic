@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\bin\Debug\net6.0\Class and Object.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\bin\Debug\net6.0\Class and Object.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\bin\Debug\net6.0\Class and Object.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\bin\Debug\net6.0\Class and Object.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\bin\Debug\net6.0\Class and Object.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\obj\Debug\net6.0\Class and Object.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\obj\Debug\net6.0\Class and Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\obj\Debug\net6.0\Class and Object.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\obj\Debug\net6.0\Class and Object.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\obj\Debug\net6.0\Class and Object.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\obj\Debug\net6.0\Class and Object.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\obj\Debug\net6.0\refint\Class and Object.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\obj\Debug\net6.0\Class and Object.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\obj\Debug\net6.0\Class and Object.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\Class and Object\obj\Debug\net6.0\ref\Class and Object.dll

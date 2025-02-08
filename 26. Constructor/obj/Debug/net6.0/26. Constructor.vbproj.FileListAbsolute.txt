@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\bin\Debug\net6.0\26. Constructor.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\bin\Debug\net6.0\26. Constructor.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\bin\Debug\net6.0\26. Constructor.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\bin\Debug\net6.0\26. Constructor.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\bin\Debug\net6.0\26. Constructor.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\obj\Debug\net6.0\26. Constructor.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\obj\Debug\net6.0\26. Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\obj\Debug\net6.0\26. Constructor.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\obj\Debug\net6.0\26. Constructor.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\obj\Debug\net6.0\26. Constructor.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\obj\Debug\net6.0\26. Constructor.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\obj\Debug\net6.0\refint\26. Constructor.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\obj\Debug\net6.0\26. Constructor.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\obj\Debug\net6.0\26. Constructor.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\26. Constructor\obj\Debug\net6.0\ref\26. Constructor.dll
