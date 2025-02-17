@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\bin\Debug\net8.0\31. Try Catch.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\bin\Debug\net8.0\31. Try Catch.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\bin\Debug\net8.0\31. Try Catch.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\bin\Debug\net8.0\31. Try Catch.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\bin\Debug\net8.0\31. Try Catch.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\obj\Debug\net8.0\31. Try Catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\obj\Debug\net8.0\31. Try Catch.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\obj\Debug\net8.0\31. Try Catch.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\obj\Debug\net8.0\31. Try Catch.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\obj\Debug\net8.0\31. Try Catch.sourcelink.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\obj\Debug\net8.0\31. Try Catch.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\obj\Debug\net8.0\refint\31. Try Catch.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\obj\Debug\net8.0\31. Try Catch.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\obj\Debug\net8.0\31. Try Catch.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\31. Try Catch\obj\Debug\net8.0\ref\31. Try Catch.dll

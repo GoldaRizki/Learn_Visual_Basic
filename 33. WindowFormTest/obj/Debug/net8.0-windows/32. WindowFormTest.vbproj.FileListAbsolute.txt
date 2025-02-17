@@ -1,0 +1,66 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\32. WindowFormTest.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\32. WindowFormTest.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\32. WindowFormTest.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\32. WindowFormTest.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\32. WindowFormTest.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\32. WindowFormTest.vbproj.AssemblyReference.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\_32._WindowFormTest.Form1.resources
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\32. WindowFormTest.vbproj.GenerateResource.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\32. WindowFormTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\32. WindowFormTest.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\32. WindowFormTest.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\32. WindowFormTest.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\32. WindowFormTest.sourcelink.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\32. Wind.5D0EFB79.Up2Date
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\32. WindowFormTest.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\refint\32. WindowFormTest.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\32. WindowFormTest.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\32. WindowFormTest.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\ref\32. WindowFormTest.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\32. WindowFormTest\obj\Debug\net8.0-windows\_32._WindowFormTest.Form2.resources

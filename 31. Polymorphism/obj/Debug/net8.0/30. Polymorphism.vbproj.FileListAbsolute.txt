@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\bin\Debug\net8.0\30. Polymorphism.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\bin\Debug\net8.0\30. Polymorphism.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\bin\Debug\net8.0\30. Polymorphism.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\bin\Debug\net8.0\30. Polymorphism.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\bin\Debug\net8.0\30. Polymorphism.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\obj\Debug\net8.0\30. Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\obj\Debug\net8.0\30. Polymorphism.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\obj\Debug\net8.0\30. Polymorphism.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\obj\Debug\net8.0\30. Polymorphism.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\obj\Debug\net8.0\30. Polymorphism.sourcelink.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\obj\Debug\net8.0\30. Polymorphism.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\obj\Debug\net8.0\refint\30. Polymorphism.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\obj\Debug\net8.0\30. Polymorphism.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\obj\Debug\net8.0\30. Polymorphism.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\30. Polymorphism\obj\Debug\net8.0\ref\30. Polymorphism.dll

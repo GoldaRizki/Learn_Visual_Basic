@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\bin\Debug\net8.0\27. Acess Modifier.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\bin\Debug\net8.0\27. Acess Modifier.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\bin\Debug\net8.0\27. Acess Modifier.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\bin\Debug\net8.0\27. Acess Modifier.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\bin\Debug\net8.0\27. Acess Modifier.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\obj\Debug\net8.0\27. Acess Modifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\obj\Debug\net8.0\27. Acess Modifier.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\obj\Debug\net8.0\27. Acess Modifier.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\obj\Debug\net8.0\27. Acess Modifier.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\obj\Debug\net8.0\27. Acess Modifier.sourcelink.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\obj\Debug\net8.0\27. Acess Modifier.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\obj\Debug\net8.0\refint\27. Acess Modifier.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\obj\Debug\net8.0\27. Acess Modifier.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\obj\Debug\net8.0\27. Acess Modifier.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\27. Acess Modifier\obj\Debug\net8.0\ref\27. Acess Modifier.dll

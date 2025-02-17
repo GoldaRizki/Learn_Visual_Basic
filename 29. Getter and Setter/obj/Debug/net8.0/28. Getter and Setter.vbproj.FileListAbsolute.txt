@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\bin\Debug\net8.0\28. Getter and Setter.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\bin\Debug\net8.0\28. Getter and Setter.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\bin\Debug\net8.0\28. Getter and Setter.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\bin\Debug\net8.0\28. Getter and Setter.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\bin\Debug\net8.0\28. Getter and Setter.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\obj\Debug\net8.0\28. Getter and Setter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\obj\Debug\net8.0\28. Getter and Setter.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\obj\Debug\net8.0\28. Getter and Setter.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\obj\Debug\net8.0\28. Getter and Setter.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\obj\Debug\net8.0\28. Getter and Setter.sourcelink.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\obj\Debug\net8.0\28. Getter and Setter.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\obj\Debug\net8.0\refint\28. Getter and Setter.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\obj\Debug\net8.0\28. Getter and Setter.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\obj\Debug\net8.0\28. Getter and Setter.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\28. Getter and Setter\obj\Debug\net8.0\ref\28. Getter and Setter.dll

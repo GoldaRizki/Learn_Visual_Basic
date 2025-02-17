@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Kuliah\\Documentation\\Visual Basic\\Learn_Visual_Basic\\31. Try Catch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7080E36A-BBAA-45A5-8867-D82CFD8AA55E}|31. Try Catch.vbproj|d:\\programming kuliah\\documentation\\visual basic\\learn_visual_basic\\31. try catch\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7080E36A-BBAA-45A5-8867-D82CFD8AA55E}|31. Try Catch.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "D:\\Programming Kuliah\\Documentation\\Visual Basic\\Learn_Visual_Basic\\31. Try Catch\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "D:\\Programming Kuliah\\Documentation\\Visual Basic\\Learn_Visual_Basic\\31. Try Catch\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-16T14:42:27.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Kuliah\\Documentation\\Visual Basic\\Learn_Visual_Basic\\27. Acess Modifier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51A2937A-AE58-4C6B-93B7-7D784D23AB33}|27. Acess Modifier.vbproj|d:\\programming kuliah\\documentation\\visual basic\\learn_visual_basic\\27. acess modifier\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{51A2937A-AE58-4C6B-93B7-7D784D23AB33}|27. Acess Modifier.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A2937A-AE58-4C6B-93B7-7D784D23AB33}|27. Acess Modifier.vbproj|d:\\programming kuliah\\documentation\\visual basic\\learn_visual_basic\\27. acess modifier\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{51A2937A-AE58-4C6B-93B7-7D784D23AB33}|27. Acess Modifier.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "D:\\Programming Kuliah\\Documentation\\Visual Basic\\Learn_Visual_Basic\\27. Acess Modifier\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "D:\\Programming Kuliah\\Documentation\\Visual Basic\\Learn_Visual_Basic\\27. Acess Modifier\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-16T13:51:42.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "D:\\Programming Kuliah\\Documentation\\Visual Basic\\Learn_Visual_Basic\\27. Acess Modifier\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "D:\\Programming Kuliah\\Documentation\\Visual Basic\\Learn_Visual_Basic\\27. Acess Modifier\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-16T13:43:42.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

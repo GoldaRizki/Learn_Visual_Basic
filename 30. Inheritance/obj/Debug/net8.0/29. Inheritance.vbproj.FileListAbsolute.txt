@@ -1,0 +1,15 @@
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\bin\Debug\net8.0\29. Inheritance.exe
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\bin\Debug\net8.0\29. Inheritance.deps.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\bin\Debug\net8.0\29. Inheritance.runtimeconfig.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\bin\Debug\net8.0\29. Inheritance.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\bin\Debug\net8.0\29. Inheritance.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\obj\Debug\net8.0\29. Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\obj\Debug\net8.0\29. Inheritance.AssemblyInfoInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\obj\Debug\net8.0\29. Inheritance.AssemblyInfo.vb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\obj\Debug\net8.0\29. Inheritance.vbproj.CoreCompileInputs.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\obj\Debug\net8.0\29. Inheritance.sourcelink.json
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\obj\Debug\net8.0\29. Inheritance.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\obj\Debug\net8.0\refint\29. Inheritance.dll
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\obj\Debug\net8.0\29. Inheritance.pdb
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\obj\Debug\net8.0\29. Inheritance.genruntimeconfig.cache
+D:\Programming Kuliah\Documentation\Visual Basic\Learn_Visual_Basic\29. Inheritance\obj\Debug\net8.0\ref\29. Inheritance.dll
